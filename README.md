@@ -17,6 +17,5 @@ Full Stack Developer | Java, Golang, JavaScript, React, Vue
 
 ## 📬 Get in Touch
 
-- GitHub: [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-- LinkedIn: [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-- E-mail: your.email@example.com
+- LinkedIn: www.linkedin.com/in/绍荣-李-21221a119
+- E-mail: mbigbug@163.com
