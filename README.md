@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, I'm [Your Name]! 👋
 
-<!--
-**lisr2023/lisr2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | Java, Golang, JavaScript, React | 🎸 Guitarist
 
-Here are some ideas to get you started:
+## 🛠️ My Favorite Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![](https://img.shields.io/badge/Golang-blue?style=for-the-badge&logo=go)
+![](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+<!--START_SECTION:activity-->
+
+![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+## 📬 Get in Touch
+
+- GitHub: [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- LinkedIn: [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+- E-mail: your.email@example.com
