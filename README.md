@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm lisr2023! 👋
 
-Full Stack Developer | Java, Golang, JavaScript, React | 🎸 Guitarist
+Full Stack Developer | Java, Golang, JavaScript, React, Vue
 
 ## 🛠️ My Favorite Tools
 
@@ -9,7 +9,7 @@ Full Stack Developer | Java, Golang, JavaScript, React | 🎸 Guitarist
 ![](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
 
 <!--START_SECTION:activity-->
 
