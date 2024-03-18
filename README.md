@@ -17,5 +17,5 @@ Full Stack Developer For Five Years | Java, Golang, JavaScript, React, Vue
 
 ## 📬 Get in Touch
 
-- LinkedIn: www.linkedin.com/in/绍荣-李-21221a119
+- LinkedIn: https://www.linkedin.com/in/leo-li-21221a119/
 - E-mail: mbigbug@163.com
